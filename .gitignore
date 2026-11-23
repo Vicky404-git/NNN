@@ -1,0 +1,14 @@
+# Compiled C++ binaries & object files
+nnn
+arr_mul
+*.o
+*.out
+
+# Python virtual environments
+.venv/
+__pycache__/
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
